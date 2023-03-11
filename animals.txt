@@ -6,3 +6,5 @@ Local
 Tiger
 Hyena
 Husky
+Insect
+Owl
